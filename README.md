@@ -14,8 +14,13 @@ This Streamlit app combines multiple mini projects into one simple dashboard —
    git clone https://github.com/yourusername/multi-project-app.git
 
 2. Navigate into the folder:
+   
      cd multi-project-app
-3. Install dependencies:
+   
+4. Install dependencies:
+    
      pip install streamlit
-4. Run the app:
+   
+6. Run the app:
+   
      streamlit run app.py
