@@ -15,12 +15,12 @@ This Streamlit app combines multiple mini projects into one simple dashboard —
 
 2. Navigate into the folder:
    
-     cd multi-project-app
+      cd multi-project-app
    
 4. Install dependencies:
     
-     pip install streamlit
+      pip install streamlit
    
 6. Run the app:
    
-     streamlit run app.py
+      streamlit run app.py
